@@ -1,0 +1,1 @@
+*/1 * * * * /usr/bin/python3 /home/ubuntu/python3_fold/alert.py >> /home/ubuntu/python3_fold/corn_log.txt 2>&1
